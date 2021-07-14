@@ -191,10 +191,6 @@ body {
     column-gap: 24px;
   }
 
-  .best-players .best-goalkeeper {
-    transform: translateY(30px);
-  }
-
   .ml-0 .player img {
     margin-left: 0 !important;
   }
@@ -277,9 +273,6 @@ body {
     margin-left: 0;
   }
 
-  .best-players .best-goalkeeper {
-    transform: translateY(40px);
-  }
 
   footer {
     margin-top: 200px !important;
